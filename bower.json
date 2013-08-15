@@ -1,0 +1,12 @@
+{
+  "name": "bower-ui-router",
+  "version": "1.0.0",
+  "main": "angular-ui-router.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
